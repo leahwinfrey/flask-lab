@@ -1,1 +1,13 @@
-h1 { color:#FF0000; }
+p {text-align:center;
+    text-color:white;
+    background-color: gray;
+    font-weight: bold;
+    font-family: georgia;
+
+}
+
+body{background-color:black;
+border-style:dashed;
+border-color:white;
+text-align:center;
+text-color:white;}
